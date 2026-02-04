@@ -1,0 +1,7 @@
+{
+  "name": "FleetMaster - Vehicle Parts Management",
+  "description": "A professional fleet and workshop management tool for tracking vehicle data and part replacement history with technician-focused search.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
